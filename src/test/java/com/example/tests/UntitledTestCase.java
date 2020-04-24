@@ -130,4 +130,9 @@ public class UntitledTestCase {
       acceptNextAlert = true;
     }
   }
+
+@Test
+public void GitTEst() {
+	System.out.println("git Update");
+}
 }
